@@ -1,6 +1,10 @@
 #mac os
 .DS_Store
 
+# data
+data/*
+!data/.gitkeep
+
 # Logs
 logs
 *.log
